@@ -6,7 +6,7 @@
 name: Bicycling Bear
 
 # Short bio or description (displayed in the header)
-description: Hot Takes on Games
+description: Hot Takes on Hot Games
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
@@ -22,7 +22,7 @@ footer-links:
   facebook:
   flickr:
   github: 
-  instagram: bicyclingbear
+  instagram: 
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
