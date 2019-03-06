@@ -1,0 +1,23 @@
+<div>
+  {% for comment in site.data.comments %}
+  {% assign commentData= comment[1] %}
+  
+  {% capture commentPostId %}
+	{{commentData.postId | strip_newlines | strip }}
+  {% endcapture %}
+
+  {% capture includePostId %}
+	{{include.postId | strip_newlines | strip}}
+  {% endcapture %}
+  
+  {% if commentPostId == includePostId %}
+		<div class="card">
+				<div class="card-content">
+					<span class="card-title">Commenter: {{ commentData.name }}</span>
+					<p>{{ commentData.message }}</p>
+					<p>{{ commentData.date }}
+				</div>
+		</div>
+	{% endif %}
+  {% endfor %}
+	</div>

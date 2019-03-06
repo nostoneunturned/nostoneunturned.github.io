@@ -1,0 +1,75 @@
+---
+---
+
+//
+// IMPORTS
+//
+
+//@import "reset";
+@import "variables";
+@import "highlights";
+@import "svg-icons";
+.myface {
+    height: 100px;
+	margin: 25px auto auto;
+}
+
+html, body{
+	height: 100%;
+	margin: 0;
+}
+
+.parallax-container {
+      height: "200px";
+    }
+	
+@media screen and (min-width: 600px){	
+.bottomout{
+	height: 100%
+}
+	
+#leftnav{
+	height:100%;
+	margin:auto;
+	position:fixed;
+	overflow-y:auto;
+	}
+	
+.indexheader{
+	padding-left: 30px;
+}
+	
+}
+	/*
+#leftnavlist{
+	background-image: url("https://adamebell.com/images/farmland.jpg");
+	background-size: auto 100%;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+*/
+
+.navitem{
+	display:inline-block;
+	width: 100%;
+}
+	
+.navitem:hover {
+	background-color: gray;
+}
+
+.postcard{
+	margin: 30px 0px;
+	padding: 0px 10px 10px;
+}
+
+.postexcerpt{
+	width: 100%;
+    /*white-space: nowrap;*/
+    text-overflow: ellipsis;
+    overflow: hidden;
+}
+
+::-webkit-scrollbar {
+    display:none;
+}

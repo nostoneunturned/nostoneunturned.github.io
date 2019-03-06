@@ -1,17 +1,39 @@
 ---
 layout: default
 ---
-
-<article class="post">
-  <h1>{{ page.title }}</h1>
-
-  <div class="entry">
-    {{ content }}
+<div class="parallax-container">
+	<div class="parallax"><img class="postimage responsive-img" src="{{ page.image }}"></div>
+</div>
+<div class="section post red lighten-5">
+	<div class="container">
+		<h1>{{ page.title }}</h1>
+		<div class="date"><h5>Written on {{ page.date | date: "%B %e, %Y" }}</h5></div>
+		<span class="tags"> tags: [
+			{% for tag in page.tags %}
+			{% capture tag_name %}{{ tag }}{% endcapture %}
+			<a href="/tag/{{ tag_name }}">{{ tag_name }}</a>
+			{% endfor %}]
+		</span>
+		<div class="entry">
+			{{ content }}
+		</div>
+  
+  <div class="footnotes">
+    {% for footnote in page.footnotes %}
+    {% capture footnotetext %}{{ footnote }}{% endcapture %}
+	<div id="footnote {{forloop.index }}"><span><sup>{{ forloop.index }}</sup>{{ footnotetext }}</span></div>
+  {% endfor %}
   </div>
 
-  <div class="date">
-    Written on {{ page.date | date: "%B %e, %Y" }}
-  </div>
 
-  {% include disqus.html %}
-</article>
+
+  {% include statcman.html %}
+
+  {% capture postid %}
+	{{ page.id }}
+  {% endcapture %}
+  
+  {% include staticmancomments.html postId=postid bam="beep" %}
+</div>
+</div>
+  
