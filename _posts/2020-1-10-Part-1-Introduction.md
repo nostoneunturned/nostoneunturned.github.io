@@ -43,7 +43,7 @@ This game can also be played as a one-shot. If you plan to do this, I’d recomm
 
 In this game, you will be collaborating on a story with improvisational, off-the-cuff roleplaying and creativity. The direction of the story is unpredictable, and so it's important to make sure that everyone has the tools to redirect the conversation if they become uncomfortable in a way that they don't wish to be. Whether the discomfort comes from venturing into a certain topic or the way other players are behaving, players should feel comfortable and safe. After all, this is a game and everyone should be having a good time.
 
-Often when we find ourselves in a situation where we're uncomfortable, it can be difficult to speak up for any number of reasons. There are several methods that are commonly used to make it easier to ensure a safer environment for play Discuss with your group and decide what makes the most sense to put in place.
+Often when we find ourselves in a situation where we're uncomfortable, it can be difficult to speak up for any number of reasons. There are several methods that are commonly used to make it easier to ensure a safer environment for play. Discuss with your group and decide what makes the most sense to put in place.
 
 _The X-Card:_ Originally designed by John Stavropolous, the X-Card is an index card with an X drawn on it that any player can at any time point to to walk back whatever is currently be discussed, no questions asked. A complete description can be found at http://tinyurl.com/x-card-rpg
 
