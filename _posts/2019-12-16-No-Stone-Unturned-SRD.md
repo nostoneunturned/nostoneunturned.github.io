@@ -8,7 +8,7 @@ tags: nostoneunturned
 
 summary: The full rules of our tabletop RPG, No Stone Unturned
 
-image: https://img.itch.zone/aW1nLzE5Nzc3NTgucG5n/original/4%2FpXdG.png
+image: https://raw.githubusercontent.com/nostoneunturned/nostoneunturned.github.io/images/NSU cover square.jpg
 
 footnotes:
 
