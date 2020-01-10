@@ -45,7 +45,7 @@ In this game, you will be collaborating on a story with improvisational, off-the
 
 Often when we find ourselves in a situation where we're uncomfortable, it can be difficult to speak up for any number of reasons. There are several methods that are commonly used to make it easier to ensure a safer environment for play. Discuss with your group and decide what makes the most sense to put in place.
 
-_The X-Card:_ Originally designed by John Stavropolous, the X-Card is an index card with an X drawn on it that any player can at any time point to to walk back whatever is currently be discussed, no questions asked. A complete description can be found at http://tinyurl.com/x-card-rpg
+_The X-Card:_ Originally designed by John Stavropolous, the X-Card is an index card with an X drawn on it that any player can at any time point to to walk back whatever is currently be discussed, no questions asked. A complete description can be found [here.](http://tinyurl.com/x-card-rpg)
 
 _Lines and Veils:_ Before the game starts, pull out two index cards and ask everyone to write down what their lines and veils are. Lines are topics that shouldn’t be brought up under any circumstance, whereas veils are topics that are fine to be in the story but should not be discussed in detail or zoomed in on.
 
