@@ -295,7 +295,6 @@ Rolls made with other Moods are made at Mood Disadvantage. This could cause you 
 4. If the roll has a difference of 0, follow the rules for both winning and losing the roll.
 
 ### Skills
-#### What are skills?
 Skills are anything that your character is good at. Each character starts with 3 skills that will immediately be helpful if they attempt to act in a way that uses those skills.These starting skills are also helpful for getting an idea of who this character is. Why are they good at origami, juggling, and flirting?
 
 #### Using and creating skills
@@ -332,3 +331,8 @@ This game is partially about the adverse affects that are often left unspoken in
 #### Collateral Clocks and Scene Details
 
 Choosing whether the world or character is at risk on each action roll is done to help guide you to consider what kind of situations can arise when players act in dramatic ways. Factor in the listed danger and collateral from the location card and choose details that would drive home this conflict between the adventurer and the land they are interfering with.Tick the Collateral Clock when you are adding Details granted by action rolls in which the World was determined at risk.The Arbiters’ job is to introduce complications that lead to a more interesting story - make your Hard Details and Scene Details hit hard and show true consequences.
+
+
+
+[Previous Section: Introduction and Worldbuilding]({% post_url 2020-1-10-Part-1-Introduction %})
+[Next Section: Gameplay]({% post_url 2020-1-8-Part-3-Downtime %})

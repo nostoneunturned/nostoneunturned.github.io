@@ -108,3 +108,5 @@ When traveling between locations in this game, we don’t roleplay what is happe
 
 Use this on the adventures themselves as well. This doesn’t have to be a realistic simulation. Skip past parts that won’t be as fun. For example, if you think it’s time to leave a location and everyone is relatively safe, just collectively decide how you meet up. Unless it’s going to be interesting, you don’t need to show that on screen or roll dice to do it.
 
+[Previous Section: Downtime]({% post_url 2020-1-8-Part-3-Downtime %})
+[Next Section: Ludography and Acknowledgments]({% post_url 2020-1-6-Ludography %})

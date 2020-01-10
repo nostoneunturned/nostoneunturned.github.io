@@ -230,3 +230,5 @@ R3.	This can completely move a scarcity to neutral. A long term project can yiel
 R4.	This can move a scarcity to abundance if fully recovered and taken back to the settlement. The thing that can be found here is very useful and useable.
 
 
+
+[Next Section: Gameplay]({% post_url 2020-1-9-Part-2-Gameplay %})
