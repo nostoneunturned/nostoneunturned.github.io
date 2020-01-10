@@ -22,27 +22,13 @@ How to Play This Game
 
 A session of No Stone Unturned is played out as a series of adventures. As a group, decide which card on the map to head to from their current location. Flip that card to reveal the location at hand. The author of the card will then paint the picture of what this location looks like and what is at stake. Use the Reward and Danger Levels as guides for the intensity of the description. More details on what those should correspond to are on the next page. Describe the reward that can be found here.
 
-Each player then narrates a few sentences about the journey to that location as well as how their character feels about the task ahead of them. The characters then will split into two groups. Play out a brief scene on how you split up and who is with who.
+Each player then narrates a few sentences about the journey to that location as well as how their character feels about the task ahead of them. The characters then will split into two groups. Play out a brief scene on how you split up and who is with who. The players whose characters are not on screen will act as the Arbiters for those that are. Arbiters function in the same way as GMs in more traditional roleplaying games - describing scenes, acting as NPCs, and introducing conflict to the characters' lives. The group that the author of the card is a part of will typically be the Arbiters first, so that they can set the scene a little better. 
 
-The players whose characters are not on screen will act as the Arbiters for those that are. Arbiters function in the same way as GMs in more traditional roleplaying games - describing scenes, acting as NPCs, and introducing conflict to the characters' lives. The group that the author of the card is a part of will typically be the Arbiters first, so that they can set the scene a little better. 
+Sometimes, an action that a character undertakes will be uncertain and require a dice roll to resolve. This will be resolved using an Action Roll, which will allow certain players to add Details to the scene. After a few action rolls, it's a good idea to switch to the other group as the tension in this scene rises. A cliffhanger or something that can affect both parties at once is a good place to change focus. Every time you switch focus or break up the party, all of the players not “on screen” will act as Arbiters together.  Eventually, it will make sense for this adventure to come to a close. Your characters will meet up for one reason or another and likely leave the area that they are staying in. Perhaps you have found some treasure or knowledge, and maybe you are fleeing for your lives.
 
-Sometimes, an action that a character undertakes will be uncertain and require a dice roll to resolve. This will be resolved using an Action Roll, which will allow certain players to add Details to the scene.
+When that happens, there are decisions to make both in and out of character. First, if you haven’t taken a break from playing in a while, now is a good time to do so. You’ll also need to decide if this is the end of your current session. In character, you will decide whether to head back to your home settlement, or make camp somewhere else that is safe. Whatever choice you make, the game will shift into Downtime. The Downtime phase is described in greater detail later in the book, but it follows the same process every time. First, you roll for complications due to your actions at the location your characters just left and have a conversation about what immediately changes in your wake.
 
-After a few action rolls, it's a good idea to switch to the other group as the tension in this scene rises. A cliffhanger or something that can affect both parties at once is a good place to change focus. Every time you switch focus or break up the party, all of the players not “on screen” will act as Arbiters together. 
-
-Eventually, it will make sense for this adventure to come to a close. Your characters will meet up for one reason or another and likely leave the area that they are staying in. Perhaps you have found some treasure or knowledge, and maybe you are fleeing for your lives.
-
-When that happens, there are decisions to make both in and out of character. First, if you haven’t taken a break from playing in a while, now is a good time to do so. You’ll also need to decide if this is the end of your current session.
-
-In character, you will decide whether to head back to your home settlement, or make camp somewhere else that is safe. Whatever choice you make, the game will shift into Downtime.
-
-The Downtime phase is described in greater detail later in the book, but it follows the same process every time. First, you roll for complications due to your actions at the location your characters just left and have a conversation about what immediately changes in your wake.
-
-Next, each of your characters will have a chance to take one Downtime Action to recover from wounds, research how best to use the treasures they have taken, or try to patch up the problems that they caused while adventuring.
-
-If one action isn’t enough, you can collectively decide to spend more time at rest. However, every time you take another round of Downtime actions, you will roll for complications at one of the areas that you’ve visited. The world keeps moving even when you’re not.
-
-If you continue playing after downtime, adventure to a new location. Either flip a new card that you have access to, or return to an old one that you weren’t quite finished with. 
+Next, each of your characters will have a chance to take one Downtime Action to recover from wounds, research how best to use the treasures they have taken, or try to patch up the problems that they caused while adventuring. If one action isn’t enough, you can collectively decide to spend more time at rest. However, every time you take another round of Downtime actions, you will roll for complications at one of the areas that you’ve visited. The world keeps moving even when you’re not. If you continue playing after downtime, adventure to a new location. Either flip a new card that you have access to, or return to an old one that you weren’t quite finished with. 
 
 
 
@@ -66,7 +52,7 @@ Details are typically negative or positive. Negative details are often harm deta
 
 Adding details drives the fiction forward from moments of uncertainty. If you’re stuck, just think back to the goal the character was trying to achieve and go from there. Don’t be afraid to push it and make dramatic changes to the scene! The important thing with the details you add is that they should make the story and world more exciting to you and to the other players at the table.
 
-Action Roll Results
+#### Action Roll Results
 
 The result of an action roll determines how many hard details and scene details can be added after a roll and who gets to add them. When a player makes an action roll, they will be rolling two dice. They will then subtract the lower die from the higher die and compare the difference to the table below. The specifics of determining the winning side are discussed in the detailed steps for resolving Action Rolls. 
 
@@ -86,17 +72,13 @@ Harm details can be addressed by using the Recover action during Downtime. When 
 
 When a player records their 4th Harm Detail, they get the _Overcome_ detail. Circle this on your character sheet.
 
-Overcome characters must be rescued and taken to a safe place as soon as possible. The player must use the Recover downtime move to clear at least one of the details before they can act again.
-
-Decide on a case by case basis what this means for your table. Depending on the type of harm they received, the character may need to retire from adventuring or even perish. Be honest with the fiction here, and allow yourself to let go of the character if the situation calls for it.
+Overcome characters must be rescued and taken to a safe place as soon as possible. The player must use the Recover downtime move to clear at least one of the details before they can act again. Decide on a case by case basis what this means for your table. Depending on the type of harm they received, the character may need to retire from adventuring or even perish. Be honest with the fiction here, and allow yourself to let go of the character if the situation calls for it.
 
 
 
 #### Recording Details
 
-When hard details are assigned to your character, record them in the details section on your character sheet. If the Arbiters say that the detail counts as a harm detail, record it on one of the 4 lines designated for Harm Details.
-
-Otherwise, your character can have any number of positive and negative details. Make sure to consider what details you have while roleplaying and acting within the world, as they should inform how you interact with your surroundings.
+When hard details are assigned to your character, record them in the details section on your character sheet. If the Arbiters say that the detail counts as a harm detail, record it on one of the 4 lines designated for Harm Details. Otherwise, your character can have any number of positive and negative details. Make sure to consider what details you have while roleplaying and acting within the world, as they should inform how you interact with your surroundings.
 
 Also remember to consider all of your details when resolving Action Rolls, as certain details can offer advantage or disadvantage to your Aspect Dice, as described on the following pages.
 
@@ -104,11 +86,7 @@ Also remember to consider all of your details when resolving Action Rolls, as ce
 
 #### Applying Details
 
-Don’t be afraid to think bigger than the action being tested when applying Details. A seemingly small action can have ripples throughout the land. Perhaps a player loses a roll to convince somebody in a new town that they mean no harm. You can apply Details in several ways. Here are two examples.
-
-You could apply the scene detail Uncooperative Population to inform the player that this conversation will leak out and there will be subsets of this population that will no longer cooperate with the adventurers and may even be outright hostile to them.
-
-You could also apply the hard detail Wanted to them - you hear shouts outside the building where you are having this conversation. A protest has formed to kick out the intruders. What do you do?
+Don’t be afraid to think bigger than the action being tested when applying Details. A seemingly small action can have ripples throughout the land. Perhaps a player loses a roll to convince somebody in a new town that they mean no harm. You can apply Details in several ways. Here are two examples. You could apply the scene detail Uncooperative Population to inform the player that this conversation will leak out and there will be subsets of this population that will no longer cooperate with the adventurers and may even be outright hostile to them. You could also apply the hard detail Wanted to them - you hear shouts outside the building where you are having this conversation. A protest has formed to kick out the intruders. What do you do?
 
 #### Recording Scene Details
 
@@ -116,13 +94,7 @@ Make sure to keep track of the scene details added to a location (such as Uncoop
 
 #### Adding Details to NPCs or creatures
 
-If a character gets in a fight or similar situation where an NPC or creature is standing in their way, it will often only take one or two Details for the player to handle the situation.
-
-For example, if you’re trying to convince a person to let you through the door and into a more restricted area, you can add Bribed as a hard detail to them after rolling to see if they’ll accept your bribe.
-
-Maybe you’re in a fist fight with somebody after a conversation went the wrong way. You can add Knocked Out after winning a roll to punch them square in the jaw.
-
-However, the Arbiters can decide to declare that a stronger person or monster has a threshold before they are Overcome like the player characters. This would be some number of harm details that the NPC would need to take before they are completely taken out of the scene. This number should be between 2 and 4.
+If a character gets in a fight or similar situation where an NPC or creature is standing in their way, it will often only take one or two Details for the player to handle the situation. For example, if you’re trying to convince a person to let you through the door and into a more restricted area, you can add Bribed as a hard detail to them after rolling to see if they’ll accept your bribe. Maybe you’re in a fist fight with somebody after a conversation went the wrong way. You can add Knocked Out after winning a roll to punch them square in the jaw. However, the Arbiters can decide to declare that a stronger person or monster has a threshold before they are Overcome like the player characters. This would be some number of harm details that the NPC would need to take before they are completely taken out of the scene. This number should be between 2 and 4.
 
 
 
@@ -152,11 +124,7 @@ The Action Roll mechanic is in place to determine the results when an action tak
 
 #### When not to call for an action roll
 
-Don’t call for an action roll for every little thing that the characters try to do. If the stakes are low or the character is known to be good at the action they are attempting, let them succeed.
-
-Action rolls should come into play when the outcome is not obvious, or when the potential for failure and consequence is more interesting than success.
-
-Don’t call for an action roll in order any time the characters try to get any information from the world. Most questions and requests to observe the world should be freely answered. Only use the roll when interesting consequences  are a possibility.
+Don’t call for an action roll for every little thing that the characters try to do. If the stakes are low or the character is known to be good at the action they are attempting, let them succeed. Action rolls should come into play when the outcome is not obvious, or when the potential for failure and consequence is more interesting than success. Don’t call for an action roll in order any time the characters try to get any information from the world. Most questions and requests to observe the world should be freely answered. Only use the roll when interesting consequences  are a possibility.
 
 #### “Passing and Failing”
 
@@ -282,15 +250,15 @@ The intersection of this table gives you that information as well:
 
 Use the row in the below table corresponding to the difference of the dice to add details:
 
-0.	Each side adds one hard detail.
+0:	Each side adds one hard detail.
 
-1.	Winning side adds one hard detail, but incurs one hard negative detail added by an ally.
+1:	Winning side adds one hard detail, but incurs one hard negative detail added by an ally.
 
-2.	Winning side adds one hard detail.
+2:	Winning side adds one hard detail.
 
-3.	Winning side adds one hard detail and one scene detail.
+3:	Winning side adds one hard detail and one scene detail.
 
-4.	Winning side adds one hard detail and so does one ally.
+4:	Winning side adds one hard detail and so does one ally.
 
 5+	Winning side adds two hard details. 
 
