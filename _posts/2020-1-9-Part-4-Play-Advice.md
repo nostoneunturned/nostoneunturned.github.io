@@ -6,7 +6,7 @@ title: Part 4 - Agenda and Principles
 
 tags: nostoneunturned
 
-summary: The full rules of our tabletop RPG, No Stone Unturned
+summary: The Agenda and Principles are a guiding force for playing the game.
 
 image: https://raw.githubusercontent.com/nostoneunturned/nostoneunturned.github.io/master/images/NSUcoversquare.jpg
 
@@ -19,9 +19,13 @@ footnotes:
 ### Agenda
 
 As you play this game, aim to satisfy the Agenda every time you’re contributing to the fiction.
+
 • Portray a living, recovering world
+
 • Show the characters the effects of their actions
+
 • Play to find out what happens
+
 
 #### Portray a living, recovering world
 When you are describing the world either as Arbiter or when designing a location during theWorldbuilding phase, think about who or what lives there and how that changes the land. Show evidence of who else lives there, whether other people or animals. Describe plant life. Build ecosystems.
@@ -35,18 +39,31 @@ Don’t go into a session or even a scene knowing what’s going to happen.Allow
 
 ### Principles
 The principles serve as your guide when you are playing the game and adding Details. Following the principles is a good way to satisfy the Agenda and make sure everybody is having a good time playing this game.
+
 • Be a fan of the characters
+
 • Be a fan of the world
+
 • Check in with the other players
+
 • Reveal this place’s secrets
+
 • Change the landscape
+
 • These locations are home, but not your home
+
 • Think new, think ancient
+
 • Be honest and add Details that follow the fiction
+
 • Pass to the other Arbiters
+
 • Endanger your character
+
 • Name every person
+
 • Give every creature life
+
 • Skip the boring parts
 
 #### Be a fan of the characters
