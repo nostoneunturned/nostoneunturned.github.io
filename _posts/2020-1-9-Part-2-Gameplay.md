@@ -278,9 +278,7 @@ The Winning Side will change the name of the mood to something more specific and
 
 #### Rules for an Overloaded Mood
 
-A Mood gets overloaded when the Mood Level is above the Overload Threshold and the Mood Die rolls under the Mood Level. You and the Arbiters should take this into account when applying Details for that roll, and you should incorporate the over-use of that Mood in your roleplay while you remain overloaded.
-
-Rolling while Overloaded
+A Mood gets overloaded when the Mood Level is above the Overload Threshold and the Mood Die rolls under the Mood Level. You and the Arbiters should take this into account when applying Details for that roll, and you should incorporate the over-use of that Mood in your roleplay while you remain overloaded, as well as following these rules:
 
 Be sure to increment whatever Mood you roll, even when Overloaded.
 
@@ -288,13 +286,13 @@ Rolls made with the Mood that you are overloaded with are made at Mood Advantage
 
 Rolls made with other Moods are made at Mood Disadvantage. This could cause you to Overload a different mood. The following rules also apply when choosing a different Mood:
 
-* Choosing a different Mood to act with will end the Overload regardless of who wins the roll. This should be represented and roleplayed in the fiction.
+1. Choosing a different Mood to act with will end the Overload regardless of who wins the roll. This should be represented and roleplayed in the fiction.
 
-* If you win this roll, clear the checkboxes from the Mood that is no longer overloaded. Describe what it was like for your character to overcome in this way.
+2. If you win this roll, clear the checkboxes from the Mood that is no longer overloaded. Describe what it was like for your character to overcome in this way.
 
-* If you lose this roll, put one of your sentiments at risk by marking the next unchecked checkbox. Describe which sentiment you are affecting and how it happens.
+3. If you lose this roll, put one of your sentiments at risk by marking the next unchecked checkbox. Describe which sentiment you are affecting and how it happens.
 
-* If the roll has a difference of 0, follow the rules for both winning and losing the roll.
+4. If the roll has a difference of 0, follow the rules for both winning and losing the roll.
 
 ### Skills
 #### What are skills?
