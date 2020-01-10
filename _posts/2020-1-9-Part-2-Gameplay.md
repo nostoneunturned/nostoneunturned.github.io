@@ -72,7 +72,7 @@ The result of an action roll determines how many hard details and scene details 
 
 
 
-### Harm Details
+#### Harm Details
 
 Harm details track the physical and mental toll that adventure takes on an explorer's body. Any details added by the Arbiters that make it difficult to continue adventuring in the same way should be counted here. Each player character has the capacity for 4 harm details before they get the Overcome detail. 
 
@@ -82,7 +82,7 @@ Harm details can be addressed by using the Recover action during Downtime. When 
 
 
 
-### Overcome
+#### Overcome
 
 When a player records their 4th Harm Detail, they get the _Overcome_ detail. Circle this on your character sheet.
 
@@ -92,7 +92,7 @@ Decide on a case by case basis what this means for your table. Depending on the 
 
 
 
-### Recording Details
+#### Recording Details
 
 When hard details are assigned to your character, record them in the details section on your character sheet. If the Arbiters say that the detail counts as a harm detail, record it on one of the 4 lines designated for Harm Details.
 
@@ -102,7 +102,7 @@ Also remember to consider all of your details when resolving Action Rolls, as ce
 
 
 
-### Applying Details
+#### Applying Details
 
 Don’t be afraid to think bigger than the action being tested when applying Details. A seemingly small action can have ripples throughout the land. Perhaps a player loses a roll to convince somebody in a new town that they mean no harm. You can apply Details in several ways. Here are two examples.
 
@@ -110,11 +110,11 @@ You could apply the scene detail Uncooperative Population to inform the player t
 
 You could also apply the hard detail Wanted to them - you hear shouts outside the building where you are having this conversation. A protest has formed to kick out the intruders. What do you do?
 
-### Recording Scene Details
+#### Recording Scene Details
 
 Make sure to keep track of the scene details added to a location (such as Uncooperative Population from the example above). This will help you maintain a record of what the adventurers have done to a location, which will aid in determining other scene details and also when Rolling for Complications in the future. Additionally, Scene Details should almost always be accompanied by a tick on the Collateral Clock. This is discussed in detail later.
 
-### Adding Details to NPCs or creatures
+#### Adding Details to NPCs or creatures
 
 If a character gets in a fight or similar situation where an NPC or creature is standing in their way, it will often only take one or two Details for the player to handle the situation.
 
@@ -128,7 +128,7 @@ However, the Arbiters can decide to declare that a stronger person or monster ha
 
 ## Action Rolls
 
-### When to call for an Action Roll
+#### When to call for an Action Roll
 
 The Action Roll mechanic is in place to determine the results when an action taken by the player character has an uncertain outcome. When a player character tries to do something in one of the below categories, or another situation where the outcome being unclear is interesting, the Action Roll mechanics should be followed.
 
@@ -150,7 +150,7 @@ The Action Roll mechanic is in place to determine the results when an action tak
 
 
 
-### When not to call for an action roll
+#### When not to call for an action roll
 
 Don’t call for an action roll for every little thing that the characters try to do. If the stakes are low or the character is known to be good at the action they are attempting, let them succeed.
 
@@ -158,7 +158,7 @@ Action rolls should come into play when the outcome is not obvious, or when the 
 
 Don’t call for an action roll in order any time the characters try to get any information from the world. Most questions and requests to observe the world should be freely answered. Only use the roll when interesting consequences  are a possibility.
 
-### “Passing and Failing”
+#### “Passing and Failing”
 
 Losing an Action roll doesn’t necessarily mean that your character failed in what they were trying to do. Often, the hard and scene details applied by the Arbiters will heavily complicate the action, but it should never lead you to a dead end. The question to answer after any Details are applied should always be, “What do you do?”
 
