@@ -119,4 +119,5 @@ You spend a number of Recovery Points equal to the number of Harm Details you ha
 Characters may upgrade the skills that have all 3 checkboxes filled. Increment the modifier by one.
 
 [Previous Section: Gameplay]({% post_url 2020-1-9-Part-2-Gameplay %})
+
 [Next Section: Agenda and Principles]({% post_url 2020-1-7-Part-4-Play-Advice %})

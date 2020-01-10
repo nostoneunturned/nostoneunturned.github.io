@@ -335,4 +335,5 @@ Choosing whether the world or character is at risk on each action roll is done t
 
 
 [Previous Section: Introduction and Worldbuilding]({% post_url 2020-1-10-Part-1-Introduction %})
-[Next Section: Gameplay]({% post_url 2020-1-8-Part-3-Downtime %})
+
+[Next Section: Downtime]({% post_url 2020-1-8-Part-3-Downtime %})
