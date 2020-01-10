@@ -35,4 +35,4 @@ Thank you Mark for making me play 4e all those years ago, which to me into table
 
 Thank you Kevin for bringing me back into the hobby by starting our 5e campaign years ago, even if you recoil at games like these.
 
-Thanks to everybody who has playtested up to this point: Josh, Ryan, Kevin, Cole, Eric, James, Basile, Kaitlyn, Lex, Cynthia, Sashah
+Thanks to everybody who has playtested up to this point: Josh, Ryan, Kevin, Cole, Eric, James, Basile, Kaitlyn, Lex, Zhen, Sashah
