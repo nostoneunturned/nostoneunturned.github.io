@@ -23,6 +23,11 @@ body {
   color: $darkGray;
 }
 
+::marker {
+  color: blue;
+  font-size: 1.2em;
+}
+
 .fourohfour{
 	  margin: auto;
   padding: 10px;

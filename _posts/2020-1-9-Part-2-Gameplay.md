@@ -132,21 +132,21 @@ However, the Arbiters can decide to declare that a stronger person or monster ha
 
 The Action Roll mechanic is in place to determine the results when an action taken by the player character has an uncertain outcome. When a player character tries to do something in one of the below categories, or another situation where the outcome being unclear is interesting, the Action Roll mechanics should be followed.
 
-* Doing that which a person doesn’t normally do, like climb a difficult surface, pick a lock, etc
+- Doing that which a person doesn’t normally do, like climb a difficult surface, pick a lock, etc
 
-* Doing something dangerous, like attack a person/creature or jump across a chasm
+- Doing something dangerous, like attack a person/creature or jump across a chasm
 
-* Looking for a thing or some information that may be difficult to locate, like a secret entrance or the password to enter
+- Looking for a thing or some information that may be difficult to locate, like a secret entrance or the password to enter
 
-* Calling upon some memory or knowledge that the character might know, but hasn’t yet shown or used
+- Calling upon some memory or knowledge that the character might know, but hasn’t yet shown or used
 
-* Doing something that could cause harm to the world around them
+- Doing something that could cause harm to the world around them
 
-* Persuading or convincing another person in the world to do something that they don’t immediately want to do, especially if it’s against their perceived interest
+- Persuading or convincing another person in the world to do something that they don’t immediately want to do, especially if it’s against their perceived interest
 
-* Avoiding or reacting to some consequence or danger that is imminent
+- Avoiding or reacting to some consequence or danger that is imminent
 
-* Observing or otherwise interacting with the world to glean information or notice something that’s happening that isn’t immediately obvious. This should only trigger an action roll if it will be interesting for the character to not catch on
+- Observing or otherwise interacting with the world to glean information or notice something that’s happening that isn’t immediately obvious. This should only trigger an action roll if it will be interesting for the character to not catch on
 
 
 
@@ -170,19 +170,17 @@ The next page outlines the steps to follow when the Arbiters call for an action 
 
 It seems like there are a lot of steps to go through here, but that’s because it is broken down into as small of pieces as possible to make it easier to reference exactly what the rules have you do. I would recommend following along in the book the first couple of times you do this to get a feel for what each of the steps is designed to add to the story. It will slow things down at first, but it will be a breeze once your table is comfortable with the procedure.
 
-
-
-Anything in the outline not in italics happens every time you roll the dice. The italicized steps are optional.
+Steps with an asterisk are optional.
 
 #### Before Rolling:
 
-- * Player states their desired outcome
+- Player states their desired outcome
 
-- * Arbiters choose aspect and state what's most at risk 
+- Arbiters choose aspect and state what's most at risk 
 
-- * Choose Mood and increment Mood Level
+- Choose Mood and increment Mood Level
 
-- * Check details for Aspect Advantage or Disadvantage
+- Check details for Aspect Advantage or Disadvantage
 
 - Choose or create Relevant Skill*
 
@@ -196,9 +194,9 @@ Anything in the outline not in italics happens every time you roll the dice. The
 
 - Get help. They roll a Mood and raise its level.*
 
-- * Determine the Winning Side and apply Details
+- Determine the Winning Side and apply Details
  
-- * Check for Mood Effects
+- Check for Mood Effects
 
 
 
