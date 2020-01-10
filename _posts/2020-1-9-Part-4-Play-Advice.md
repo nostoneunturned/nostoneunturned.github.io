@@ -2,7 +2,7 @@
 
 layout: post
 
-title: Part 4: Agenda and Principles
+title: Part 4 - Agenda and Principles
 
 tags: nostoneunturned
 

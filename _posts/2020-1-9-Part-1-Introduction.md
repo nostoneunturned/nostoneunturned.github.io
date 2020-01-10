@@ -2,7 +2,7 @@
 
 layout: post
 
-title: Part 1: Introduction and Worldbuilding
+title: Part 1 - Introduction and Worldbuilding
 
 tags: nostoneunturned
 

@@ -2,7 +2,7 @@
 
 layout: post
 
-title: Part 2: Gameplay
+title: Part 2 - Gameplay
 
 tags: nostoneunturned
 
